@@ -4,7 +4,7 @@ bio:                <a href="https://sammie-anie.github.io/portfolio//sample-pos
 description:        "3D Designer / Stylist"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Sam_Logo.png'
+logo:               'assets/img/logo.png'
 background:         'assets/img/fleck-white.png'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
