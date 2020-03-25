@@ -6,11 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://www.linkedin.com/in/samanthaastewart/">
-<b>Samantha Stewart</b></a> </center>
-
-
-
 <figure>
 	 <a href="assets/img/rsum.jpg"><img src="assets/img/rsum.jpg"></a>
 </figure>
+
+<center><a href="https://www.linkedin.com/in/samanthaastewart/">
+<b>Samantha Stewart</b></a> </center>
