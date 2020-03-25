@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Demo"
-date:   
+date:   2020
 excerpt: "Demo"
 project: true
 tag:
