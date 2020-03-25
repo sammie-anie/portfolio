@@ -1,6 +1,6 @@
 # Site
 title:              Hey I'm Samantha! 
-bio:                'Take a peek at my demo.'
+bio:                <a href="https://www.w3schools.com/html/">Take a peek at my demo.</a>
 description:        "3D Designer / Stylist"
 reading_time:       true
 words_per_minute:   200
