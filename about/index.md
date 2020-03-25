@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://https://sammie-anie.github.io/portfolio/"><b>Samantha Stewart</b></a> 3D Designer / Stylist</center>
 
 ## Features
 * Minimal, you can focus on your content
