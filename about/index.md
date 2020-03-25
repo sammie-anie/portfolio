@@ -10,5 +10,8 @@ comments: false
 
 <figure>
 	 <a href="assets/img/rsum.jpg"><img src="assets/img/rsum.jpg"></a>
-	<figcaption><a href="assets/img/rsum.jpg" title="</a>.</figcaption>
+</figure>
+
+<figure>
+	 <a href="assets/img/rsum.jpg"><img src="assets/img/rsum.jpg"></a>
 </figure>
