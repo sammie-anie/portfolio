@@ -7,7 +7,7 @@ comments: false
 ---
     
 <center><a href="https://www.linkedin.com/in/samanthaastewart/">
-<b>Samantha Stewart</b></a> 3D Designer / Stylist</center>
+<b>Samantha Stewart</b></a> </center>
 
 
 
