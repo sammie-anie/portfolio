@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Demo"
-date:   2020
-excerpt: "Demo"
+date:   2020-03-06
+excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
-- Demo 
-
+- jekyll 
+- moon
+- blog
+- about
+- theme
 comments: true
 ---
 
