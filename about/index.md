@@ -6,7 +6,7 @@ date: 2020-03-25
 comments: false
 ---
 <figure>
-	 <a href="assets/img/rhad.jpg"><img src="assets/img/had.jpg"></a>
+	 <a href="assets/img/had.jpg"><img src="assets/img/had.jpg"></a>
 </figure>    
 <figure>
 	 <a href="assets/img/rsum.jpg"><img src="assets/img/rsum.jpg"></a>
