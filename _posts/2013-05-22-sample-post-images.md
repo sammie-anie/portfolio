@@ -3,7 +3,7 @@ layout: post
 title: "Demo"
 date: 2012-05-22
 excerpt: "demo"
-tags: [demo]
+tags: [demo, please hire me]
 comments: true
 ---
 
