@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resume
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, Resume]
+date: 2020-03-25
 comments: false
 ---
     
